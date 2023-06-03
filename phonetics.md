@@ -24,5 +24,3 @@ Now, let's try an example. The word "phonetic" is transcribed as /fəˈnetɪk/ i
 - /k/ - sounds like 'k' in "keep"
 
 So "phonetic" is pronounced like "fuh-NEH-tick". 
-
-I hope that gives you a basic understanding of phonetics! Remember to say "/continue" to continue or "/test" to test at the end of your response.😄
