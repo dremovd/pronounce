@@ -2,7 +2,7 @@
 
 **1. Set Your Goal** 
 
-We start with an interview to understand your specific pronunciation goals and how we can best support your journey.
+We start with a [small form](https://docs.google.com/forms/d/e/1FAIpQLSd6y693ulGPQQmeKmjuHyc1dmLXJHwJVP2LvzK6Y5tE1rjHKw/viewform?usp=sf_link) and an interview to understand your specific pronunciation goals and how we can best support your journey.
 
 **2. Tailored for You**
 
@@ -24,4 +24,6 @@ Our professional language tutors are ready to consult with you, ensuring the too
 
 **Ready to Start?**
 
-Begin your journey towards clear, confident, and accurate English pronunciation. Sign up now to take the first step.
+Begin your journey towards clear, confident, and accurate English pronunciation. 
+
+[Set your goal now](https://docs.google.com/forms/d/e/1FAIpQLSd6y693ulGPQQmeKmjuHyc1dmLXJHwJVP2LvzK6Y5tE1rjHKw/viewform?usp=sf_link)
