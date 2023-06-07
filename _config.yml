@@ -16,4 +16,5 @@ include:
   - PULL_REQUEST_TEMPLATE.md
 title: pro⸱nounce
 google-analytics: G-6V7GT15500
-favicon: "/favicon.ico"
+favicon: /assets/img/favicon.ico
+logo: /assets/img/logo.png
