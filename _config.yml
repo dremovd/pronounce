@@ -15,6 +15,6 @@ include:
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
 title: pro⸱nounce
-google-analytics: G-6V7GT15500
-favicon: /assets/img/favicon.ico
+# google-analytics: G-6V7GT15500
+# favicon: /assets/img/favicon.ico
 logo: /assets/img/logo.png
