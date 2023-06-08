@@ -1,6 +1,7 @@
 plugins:
   - jekyll-relative-links
   - jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-include-cache
 remote_theme: pages-themes/minimal@v0.2.0
 relative_links:
   enabled: true
